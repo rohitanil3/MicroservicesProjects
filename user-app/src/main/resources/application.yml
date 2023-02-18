@@ -1,0 +1,12 @@
+chat-a-bot:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: localhost:8082,localhost:8083,localhost:8084
+    ServerListRefreshInterval: 1500
+    
+
+server:
+  port: 9090
+
+    
